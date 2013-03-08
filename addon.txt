@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name"		"AlmostAdmin"
+	"version"	"0.1"
+	"up_date"	"13th November 2011"
+	"author_name"	"Kenny"
+	"author_email"	"kenny@almost-there.org"
+	"author_url"	"http://www.almost-there.org/"
+	
+	"info"		""
+
+}
