@@ -249,15 +249,7 @@ local function AA_PlayerInitialSpawn(ply)
     end
 
     timer.Simple(1,function() Loadout(ply) end)
-    
-    --disable this when new ban system is implemented
-    	--fuck the new ban system, leave those assholes in purgatory
-    --[[timer.Simple(5,function()
-        if ply:GetAccessLevel()<0 then
-            ply:SetValue("AccessLevel",0)
-        end
-    end)]]
-
+  
 end
 
 local function AA_PlayerSpawn(ply)
